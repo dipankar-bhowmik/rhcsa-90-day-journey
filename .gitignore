@@ -1,0 +1,7 @@
+__pycache__/
+*.swp
+.env
+*.key
+*.pem
+id_rsa*
+*.log
