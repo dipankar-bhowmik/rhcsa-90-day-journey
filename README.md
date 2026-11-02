@@ -6,12 +6,12 @@ Every day is one realistic ticket (create a user, extend an LVM volume, fix an S
 
 ## Progress
 <!-- PROGRESS:START -->
-**2 of 90 days done, 4.5 hours logged.**
+**2 of 90 days done, 5 hours logged.**
 
 | Day | Date | Status | Hours | Topic |
 | --- | --- | --- | --- | --- |
 | [1](days/day-001.md) | 2026-11-01 | done | 3 | Day 1: Onboarding: build your two lab servers |
-| [2](days/day-002.md) | 2026-11-02 | done | 1.5 | Day 2: "Get to know this server" |
+| [2](days/day-002.md) | 2026-11-02 | done | 2 | Day 2: "Get to know this server" |
 <!-- PROGRESS:END -->
 
 ## What is in here
